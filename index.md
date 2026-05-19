@@ -1,6 +1,4 @@
----
-layout: home
----
+
 
 ## Intelligent Analytics for Healthcare and Biomedicine
 
