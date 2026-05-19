@@ -1,4 +1,3 @@
-# ADMA 2026 Special Track
 
 ## Intelligent Analytics for Healthcare and Biomedicine
 
