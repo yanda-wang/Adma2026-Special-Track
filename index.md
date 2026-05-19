@@ -1,5 +1,5 @@
 
-# Intelligent Analytics for Healthcare and Biomedicine
+
 
 ## Call for Papers
 
