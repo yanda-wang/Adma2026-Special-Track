@@ -1,7 +1,5 @@
 
-## Adam2026 Special Session Call for Papers
-
-### Call for Papers
+## Call for Papers
 
 Recent advances in intelligent analytics, machine learning, and data-driven technologies are rapidly transforming healthcare and biomedicine. The increasing availability of large-scale healthcare data, including electronic health records, medical imaging, omics data, wearable sensor data, and population health data, has created unprecedented opportunities for developing intelligent methods and systems that improve clinical decision-making, personalized medicine, disease prevention, and healthcare management.
 
@@ -46,18 +44,18 @@ Authors are invited to submit original research papers through the [CMT Submissi
 
 Authors should prepare their manuscripts according to the formatting guidelines and submission instructions of the main conference track. Please follow the official LNAI (Lecture Notes in Artificial Intelligence) formatting requirements and submission policies provided on the main conference website.
 
-#### Important Notes
+### Important Notes
 - Papers must be written in English and submitted in PDF format.
 - Submissions should be original, unpublished, and not under review elsewhere.
 - All papers will undergo a peer-review process based on originality, technical quality, relevance, significance, and clarity.
 - At least one author of each accepted paper must register and present the paper at the conference.
 
-### Templates and Author Instructions
+## Templates and Author Instructions
 
 For the template and detailed instructions, please refer to [Springer's Author Instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 
 
-### Important Dates
+## Important Dates
 
 | Item | Date |
 |---|---:|
@@ -65,7 +63,7 @@ For the template and detailed instructions, please refer to [Springer's Author I
 | Notification | August 3, 2026 |
 | Camera-Ready Due | August 17, 2026 |
 
-### Session Chairs
+## Session Chairs
 
 - Dr Yanda Wang, Nanjing Normal University
 
