@@ -6,8 +6,6 @@ layout: default
 
 ## Call for Papers
 
-Recent advances in intelligent analytics, machine learning...
-
 Recent advances in intelligent analytics, machine learning, and data-driven technologies are rapidly transforming healthcare and biomedicine. The increasing availability of large-scale healthcare data, including electronic health records, medical imaging, omics data, wearable sensor data, and population health data, has created unprecedented opportunities for developing intelligent methods and systems that improve clinical decision-making, personalized medicine, disease prevention, and healthcare management.
 
 At the same time, healthcare and biomedical applications present unique challenges, such as data heterogeneity, temporal complexity, privacy concerns, interpretability requirements, and the need for reliable and trustworthy systems in real-world clinical environments. Addressing these challenges requires interdisciplinary research that combines advanced analytics, intelligent computing, data mining, and domain knowledge from healthcare and biomedicine.
