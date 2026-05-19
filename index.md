@@ -32,7 +32,7 @@ The special track on **Intelligent Analytics for Healthcare and Biomedicine** in
 
 | Item | Date |
 |---|---:|
-| Paper Submission Deadline | May 20, 2026 |
+| Paper Submission Deadline | June 20, 2026 |
 | Notification | July 15, 2026 |
 | Camera Ready | August 10, 2026 |
 
