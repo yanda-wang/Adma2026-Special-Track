@@ -43,6 +43,19 @@ The special session on Intelligent Analytics for Healthcare and Biomedicine invi
 - Drug discovery and drug repurposing
 - Precision medicine and personalized healthcare
 
+### Intelligent Healthcare Applications and Systems
+- Clinical decision support systems 
+- Medical imaging analytics and computational pathology 
+- Telemedicine and digital health applications 
+- Conversational health systems and virtual assistants 
+- Intelligent healthcare information systems 
+
+### Security, Ethics, and Real-World Applications
+- Fairness, ethics, and robustness in healthcare analytics
+- Privacy-preserving healthcare systems
+- Translational and real-world healthcare applications
+- Human-centered healthcare analytics
+
 
 ## Submission Guidline
 
