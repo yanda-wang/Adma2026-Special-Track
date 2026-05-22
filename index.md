@@ -60,8 +60,7 @@ The special session on Intelligent Analytics for Healthcare and Biomedicine invi
 ## Submission Guidline
 
 Authors are invited to submit original research papers through the [CMT Submission System](https://cmt3.research.microsoft.com/ADMA2026). When submitting your manuscript: 
-- Please choose the "Special Session Session" option and select the area "Intelligent Analytics for Healthcare and Biomedicine".
-- Please select “Intelligent Analytics for Healthcare and Biomedicine" as the primary sub-subject in the classification accordingly.
+- Please choose the "Special Session" option and select the area "Intelligent Analytics for Healthcare and Biomedicine".
 
 ## Formatting Guidelines
 
