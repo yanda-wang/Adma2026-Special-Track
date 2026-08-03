@@ -86,6 +86,10 @@ For the template and detailed instructions, please refer to [Springer's Author I
 | Camera-Ready Due | August 17, 2026 |
 
 ## Session Chairs
+- Dr Weitong Chen, Adelaide University, weitong.chen@adelaide.edu.au
+- Associate Professor Xinpei Wang, Shandong University, wangxinpei@sdu.edu.cn
+- Dr Yanda Wang, Nanjing Normal University, yandawang@nnu.edu.cn
 
-- Dr Yanda Wang, Nanjing Normal University
+## Acknowledgement
+This special track is supported by the Shandong University-Adelaide University Partnerships Fund 
 
